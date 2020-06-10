@@ -6,8 +6,7 @@
       background-color: #f7f5f7;
       theme:"purple-theme";
 		}
-    
-    .logo {
+.logo {
   float: left;
     width: 100%;
 }
@@ -49,3 +48,4 @@
   position:absolute;
   bottom:25%; 
 }
+
