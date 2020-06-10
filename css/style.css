@@ -1,0 +1,51 @@
+	    #map-info {
+			height: 75%;
+      width:20%;
+      float: left;
+      text-align: center;
+      background-color: #f7f5f7;
+      theme:"purple-theme";
+		}
+    
+    .logo {
+  float: left;
+    width: 100%;
+}
+.logo img {
+    margin-top:5px;
+    float: center;
+    width: 40%;
+}
+.title{
+  font: 13px Palatino, serif;
+  color: Black;
+  background-color: #edf5f2;
+  text-transform: uppercase;
+  text-align: center;
+  }
+.desc {
+  width: 90%;
+  color: black;
+  align:center;
+  text-align: left;
+  font: 11px Georgia, sans-serif;
+  border: none !important;
+  border-color: transparent !important;
+  padding: 4px;
+  margin: auto;
+  margin-top:20px;
+
+  }
+.staticmaps {
+  color: #061147;
+  width: 90%;
+  align:center;
+  text-align: left;
+  font: 12px Georgia, sans-serif;
+  padding: 4px;
+  margin: auto;
+  margin-top: 0px;
+  line-height:12px;
+  position:absolute;
+  bottom:25%; 
+}
