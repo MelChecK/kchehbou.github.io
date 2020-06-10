@@ -11,12 +11,6 @@
       <linecap>square</linecap>
     </line>
   </extensions>
-    <trkpt lat="46.107587776213443" lon="-77.487438370990603">
-			<ele>110</ele>
-		</trkpt>
-		<trkpt lat="46.107557563086615" lon="-77.487539898843352">
-			<ele>110</ele>
-		</trkpt>
 		<trkpt lat="46.107527348073269" lon="-77.487641426501042">
 			<ele>110.33830000000307</ele>
 		</trkpt>
