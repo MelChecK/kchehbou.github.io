@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
                 
-<trk><name>Mount Martin Trail</name><number>1</number>
+<trk><name>Mount Martin Trail</name><number>30</number>
   <trkseg>
     <extensions>
     <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
