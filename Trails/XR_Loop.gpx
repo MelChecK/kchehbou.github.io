@@ -4,7 +4,7 @@
 		<time>2020-06-14T18:13:11-04:00</time>
 		<bounds minlat="46.08943685889318" minlon="-77.46598010281258" maxlat="46.089997768970136" maxlon="-77.464685439811433"/>
 	</metadata>
-	<rte>
+	<rte><name> XR Link </name><number>8</number>
 		<rtept lat="46.08943685889318" lon="-77.464685439811433">
 			<ele>126.02520000000368</ele>
 		</rtept>
