@@ -4,7 +4,7 @@
 		<time>2020-06-14T18:20:39-04:00</time>
 		<bounds minlat="46.090633877808557" minlon="-77.463996309537492" maxlat="46.091133274134904" maxlon="-77.463628814340609"/>
 	</metadata>
-	<rte><name> RX Loop </name><number>40</number>
+	<rte><name> RX Link </name><number>40</number>
 		<rtept lat="46.091133274134904" lon="-77.463996309537492">
 			<ele>130.07670000000508</ele>
 		</rtept>
