@@ -1,6 +1,6 @@
 	    #map-info {
 			height: 75%;
-      width:10%;
+      width:8%;
       float: left;
       text-align: center;
       background-color: #f7f5f7;
@@ -34,7 +34,7 @@
   }
 .staticmaps {
   color: #061147;
-  width: 10%;
+  width: 8%;
  
   text-align: left;
   font: 8px Georgia, sans-serif;
