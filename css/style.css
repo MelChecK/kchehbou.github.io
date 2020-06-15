@@ -13,6 +13,9 @@
 			font-size: 8px;
 			float:top;
 			}
+.img {
+	height:auto;
+}
 .title{
   font: 13px Palatino, serif;
   color: Black;
