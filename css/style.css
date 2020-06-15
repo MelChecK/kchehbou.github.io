@@ -14,7 +14,11 @@
     margin-top:5px;
     float: center;
     width: 40%;
-
+trail {
+	   font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+			font-size: 8px;
+			float:top;
+			}
 .title{
   font: 13px Palatino, serif;
   color: Black;
