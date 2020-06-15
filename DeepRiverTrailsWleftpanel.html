@@ -289,12 +289,7 @@
 			points: chalets,
 			points_options: opts.chalets.options,
 			});
-		 zsh = new ZoomShowHide(map);
-	var Chalets = L.chalets([2, 8]);
-	//                    
-	zsh.addLayer(chalets, 2, 8);
-	var parkings = L.parkings([2, 8]);
-	zsh.addLayer(parkings, 8, null);
+		
         controlZoom.addTo(map);
     		routes.addTo(map);
         Chalets.addTo(map);
