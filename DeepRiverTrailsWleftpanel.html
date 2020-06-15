@@ -289,19 +289,19 @@
 			points: chalets,
 			points_options: opts.chalets.options,
 		});
-	 map.on('zoomend', function() {
-	   if (map.getZoom() <6){
-		map.removeLayer(parkings);//1st geoJSON layer
-	    }else{
-	      map.addLayer(parkings);
-	       }
-	    if (map.getZoom() <6){
-		map.removeLayer(chalet); //2nd geoJSON layer
-	    }else{
-	    map.addLayer(chalets);
-	    }
+// 	 map.on('zoomend', function() {
+// 	   if (map.getZoom() <6){
+// 		map.removeLayer(parkings);//1st geoJSON layer
+// 	    }else{
+// 	      map.addLayer(parkings);
+// 	       }
+// 	    if (map.getZoom() <6){
+// 		map.removeLayer(chalet); //2nd geoJSON layer
+// 	    }else{
+// 	    map.addLayer(chalets);
+// 	    }
 	    
-	 });
+// 	 });
         controlZoom.addTo(map);
     		routes.addTo(map);
         Chalets.addTo(map);
