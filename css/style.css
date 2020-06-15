@@ -35,10 +35,10 @@
 .staticmaps {
   color: #061147;
   width: 8%;
- 
+ font-family:Palatino, serif, Georgia, sans-serif;
   text-align: left;
-  font: 8px Georgia, sans-serif;
-  padding: 4px;
+  font: 10px;
+  padding: none;
   margin: auto;
   margin-top: 0px;
   line-height:12px;
