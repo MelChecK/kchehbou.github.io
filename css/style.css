@@ -6,15 +6,8 @@
       background-color: #f7f5f7;
       theme:"purple-theme";
 		}
-.logo {
-  float: left;
-    width: 100%;
-}
-.logo img {
-    margin-top:5px;
-    float: center;
-    width: 40%;
-trail {
+
+.trail {
 	   font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
 			font-size: 8px;
 			float:top;
@@ -41,8 +34,8 @@ trail {
   }
 .staticmaps {
   color: #061147;
-  width: 90%;
-  align:center;
+  width: 10%;
+ 
   text-align: left;
   font: 12px Georgia, sans-serif;
   padding: 4px;
@@ -50,6 +43,6 @@ trail {
   margin-top: 0px;
   line-height:12px;
   position:absolute;
-  bottom:25%; 
+   
 }
 
