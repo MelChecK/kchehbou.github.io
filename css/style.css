@@ -1,8 +1,8 @@
 	    #map-info {
 			height: 75%;
-      width:8%;
+      width:7.5%;
       float: left;
-	padding:4px;
+	padding:3px;
       text-align: center;
       background-color: #f7f5f7;
       theme:"purple-theme";
@@ -39,8 +39,8 @@
  font-family:Palatino, serif, Georgia, sans-serif;
   text-align: left;
   font: 10px;
-  padding: 4px;
-  margin: auto;
+  padding: 3px;
+  margin-top: 3px;
   margin-top: 0px;
   line-height:12px;
   position:absolute;
