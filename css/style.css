@@ -62,7 +62,7 @@ z-index: 1000;
 .thumbnail span{ /*CSS for enlarged image*/
 position: absolute;
 background-color: lightyellow;
-padding: 5px;
+padding: 2px;
 left: -1000px;
 border: 1px dashed gray;
 visibility: hidden;
