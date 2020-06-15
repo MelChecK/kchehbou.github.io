@@ -1,6 +1,6 @@
 	    #map-info {
 			height: 75%;
-      width:7%;
+      width:10%;
       float: left;
 	padding:3px;
       text-align: center;
@@ -10,7 +10,7 @@
 
 .trail {
 	   font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
-			font-size: 8px;
+			font-size: 10px;
 			float:top;
 			}
 .img {
