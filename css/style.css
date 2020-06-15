@@ -2,6 +2,7 @@
 			height: 75%;
       width:8%;
       float: left;
+	padding:4px;
       text-align: center;
       background-color: #f7f5f7;
       theme:"purple-theme";
@@ -38,7 +39,7 @@
  font-family:Palatino, serif, Georgia, sans-serif;
   text-align: left;
   font: 10px;
-  padding: none;
+  padding: 4px;
   margin: auto;
   margin-top: 0px;
   line-height:12px;
