@@ -81,3 +81,19 @@ top: 0;
 left: 30px; /*position where enlarged image should offset horizontally */
 
 }
+
+   @media screen and (max-width: 600px) {
+  #map-info {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+      		#map {
+			height: 76%;
+      width:100%;
+      float: right;
+		}
+}
