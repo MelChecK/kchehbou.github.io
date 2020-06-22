@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 7.08 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<metadata>
+<bounds minlat="46.09786669" minlon="-77.48926964" maxlat="46.10768182" maxlon="-77.47463520">
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-22T04:58:12.254Z</time>
+</extensions>
+</metadata>
+
+<name>Walkingfull</name>
+<type>Track</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Walkingfull</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>0dd5fc</color>
+<opacity>1.00</opacity>
+<width>0.7917</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="46.10752602" lon="-77.48729100"><ele>128</ele>
+<trkpt lat="46.10703267" lon="-77.48919497"><ele>128</ele>
+<trkpt lat="46.10409852" lon="-77.48635768"><ele>128</ele>
+<trkpt lat="46.10383886" lon="-77.48661901"><ele>122</ele>
+<trkpt lat="46.10277425" lon="-77.48516304"><ele>114</ele>
+<trkpt lat="46.10212510" lon="-77.48460305"><ele>113</ele>
+<trkpt lat="46.10067101" lon="-77.48034711"><ele>128</ele>
+<trkpt lat="46.10113840" lon="-77.47945113"><ele>128</ele>
+<trkpt lat="46.10121630" lon="-77.47911513"><ele>128</ele>
+<trkpt lat="46.10199527" lon="-77.47743516"><ele>128</ele>
+<trkpt lat="46.10261846" lon="-77.47743516"><ele>128</ele>
+<trkpt lat="46.10321567" lon="-77.47765915"><ele>128</ele>
+<trkpt lat="46.10246266" lon="-77.47661384"><ele>128</ele>
+<trkpt lat="46.10087874" lon="-77.47497120"><ele>128</ele>
+<trkpt lat="46.10020362" lon="-77.47497120"><ele>128</ele>
+<trkpt lat="46.09986607" lon="-77.47541919"><ele>128</ele>
+<trkpt lat="46.09926885" lon="-77.47463520"><ele>128</ele>
+<trkpt lat="46.09893129" lon="-77.47538186"><ele>128</ele>
+<trkpt lat="46.09841197" lon="-77.47642717"><ele>128</ele>
+<trkpt lat="46.09786669" lon="-77.47777115"><ele>128</ele>
+<trkpt lat="46.09825618" lon="-77.47706183"><ele>128</ele>
+<trkpt lat="46.09903516" lon="-77.47750982"><ele>128</ele>
+<trkpt lat="46.09973624" lon="-77.47810715"><ele>128</ele>
+<trkpt lat="46.10051521" lon="-77.47877914"><ele>128</ele>
+<trkpt lat="46.10103453" lon="-77.47930179"><ele>128</ele>
+</trkseg>
+</trk>
+<extensions>
+</extensions>
+</gpx>
