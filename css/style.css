@@ -88,7 +88,7 @@ left: 30px; /*position where enlarged image should offset horizontally */
     clear: both;
     float: left;
     margin: 10px auto 5px 20px;
-    width: 28%;
+    width: 0%;
     display: none;
   }
       		#map {
