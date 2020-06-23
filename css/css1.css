@@ -1,0 +1,97 @@
+	    #map-info {
+			height: 75%;
+      width:8%;
+      float: left;
+	padding:3px;
+      text-align: center;
+      background-color: #f7f5f7;
+      theme:"purple-theme";
+		}
+
+.trail {
+	   font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			float:top;
+			}
+.img {
+	height:auto;
+}
+.title{
+  font: 13px Palatino, serif;
+  color: Black;
+  background-color: #edf5f2;
+  text-transform: uppercase;
+  text-align: center;
+  }
+.desc {
+  width: 90%;
+  color: black;
+  align:center;
+  text-align: left;
+  font: 11px Georgia, sans-serif;
+  border: none !important;
+  border-color: transparent !important;
+  padding: 4px;
+  margin: auto;
+  margin-top:20px;
+
+  }
+.staticmaps {
+  color: #061147;
+  width: 7%;
+ font-family:Palatino, serif, Georgia, sans-serif;
+  text-align: left;
+  font: 10px;
+  padding: 3px;
+  margin-top: 3px;
+  line-height:12px;
+  position:absolute;
+   
+}
+
+.thumbnail{
+position: relative;
+z-index: 0;
+}
+
+.thumbnail:hover{
+background-color: transparent;
+z-index: 1000;
+}
+
+.thumbnail span{ /*CSS for enlarged image*/
+position: absolute;
+background-color: lightyellow;
+padding: 2px;
+left: -1000px;
+border: 1px dashed gray;
+visibility: hidden;
+color: black;
+text-decoration: none;
+}
+
+.thumbnail span img{ /*CSS for enlarged image*/
+border-width: 0;
+padding: 2px;
+}
+
+.thumbnail:hover span{ /*CSS for enlarged image on hover*/
+visibility: visible;
+top: 0;
+left: 30px; /*position where enlarged image should offset horizontally */
+
+}
+
+@media screen and (max-width: 600px) {
+  #map-info {
+    margin: 0px;
+    width: 0;
+    display: none;
+  }
+      		#map {
+         display: block;
+			height: 76%;
+      width:100%;
+		}
+}
+    
