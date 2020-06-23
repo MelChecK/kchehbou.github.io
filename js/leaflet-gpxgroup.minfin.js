@@ -59,8 +59,7 @@ L.GpxGrroup = L.Class.extend({
       options: {
         /*options for the legend */
           highlight: {
-          color: "#ff0",
-          opacity: 1,
+            opacity: 1,
             weight: 5
                     },
           highlight1: {
