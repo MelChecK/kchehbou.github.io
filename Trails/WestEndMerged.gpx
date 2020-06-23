@@ -4,7 +4,7 @@
 		<time>2020-06-23T13:26:05-04:00</time>
 		<bounds minlat="46.104852412532011" minlon="-77.53112508922834" maxlat="46.12712772692538" maxlon="-77.491501300872017"/>
 	</metadata>
-	<trk>
+	<trk><name>Deep River West End Trail</name>
 		<trkseg>
 			<trkpt lat="46.10587142018602" lon="-77.510038592816272">
 				<ele>153.37200000000303</ele>
