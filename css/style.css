@@ -1,3 +1,37 @@
+
+  @media screen and (max-width: 600px) {
+  #map-info {
+    margin: 0px;
+    width: 0;
+    display: none;
+  }
+      		#map {
+         display: block;
+			height: 76%;
+      width:100%;
+		}
+}
+
+     @media screen and (min-width: 800px) {
+	    #map-info {
+			height: 75%;
+      width:8%;
+      float: left;
+	padding:3px;
+      text-align: center;
+      background-color: #f7f5f7;
+      theme:"purple-theme";
+		}
+		#gmap {
+			height: 76%;
+      width:90%;
+      float: right;
+		}
+}
+
+    
+
+
 .trail {
 	   font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
 			font-size: 10px;
@@ -72,34 +106,3 @@ left: 30px; /*position where enlarged image should offset horizontally */
 
 }
 
-  @media screen and (max-width: 600px) {
-  #map-info {
-    margin: 0px;
-    width: 0;
-    display: none;
-  }
-      		#map {
-         display: block;
-			height: 76%;
-      width:100%;
-		}
-}
-
-     @media screen and (min-width: 800px) {
-	    #map-info {
-			height: 75%;
-      width:8%;
-      float: left;
-	padding:3px;
-      text-align: center;
-      background-color: #f7f5f7;
-      theme:"purple-theme";
-		}
-		#gmap {
-			height: 76%;
-      width:90%;
-      float: right;
-		}
-}
-
-    
