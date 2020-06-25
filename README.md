@@ -12,7 +12,7 @@ A Leaflet plugin that allows to show Trails and their elevation profiles.
 
 <blockquote>
     <p align="center">
-        <em>Initially based on the <a href="http://mrmufflon.github.io/Leaflet.Elevation/">work</a> of <strong>Felix “MrMufflon” Bache</strong></em> and <strong>Raruto </strong></em
+        <em>Initially based on the <a href="http://mrmufflon.github.io/Leaflet.Elevation/">work</a> of <strong>Felix “MrMufflon” Bache</strong></em> and <strong>Raruto  Raruto/leaflet-elevation </strong></em
     </p>
 </blockquote>
 
