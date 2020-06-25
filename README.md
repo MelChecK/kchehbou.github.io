@@ -4,7 +4,7 @@ A Leaflet plugin that allows to show Trails and their elevation profiles.
 
 
 <p align="center">
-    <a href="https://kchehbou.github.io/testing.html"><img src="leaflet-elevation.png" alt="Leaflet elevation viewer" /></a>
+    <a href="https://kchehbou.github.io/deeprivertrails.html"><img src="leaflet-elevation.png" alt="Leaflet elevation viewer" /></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@ A Leaflet plugin that allows to show Trails and their elevation profiles.
 
 <blockquote>
     <p align="center">
-        <em>Initially based on the <a href="http://mrmufflon.github.io/Leaflet.Elevation/">work</a> of <strong>Felix “MrMufflon” Bache</strong></em>
+        <em>Initially based on the <a href="http://mrmufflon.github.io/Leaflet.Elevation/">work</a> of <strong>Felix “MrMufflon” Bache</strong></em> and <strong>Raruto </strong></em
     </p>
 </blockquote>
 
